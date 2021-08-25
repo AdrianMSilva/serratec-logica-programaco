@@ -1,0 +1,7 @@
+TesteMesaCar´
+
+prompt = API
+movimento = "sim"
+barulho = "sim"
+luzes = "sim"
+ligado = "true"

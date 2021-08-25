@@ -1,0 +1,40 @@
+A
+integer quantidadeDeVendedores
+B
+string endereço
+C
+float precoEtanol
+D
+boolean estadoIluminacao;
+E
+string cep 
+F
+string nomeLivro
+G
+boolean luzAcessa
+H
+string aniversarioDataProfessor
+I
+float PesoBalança
+J
+integer boisFazenda
+K
+string dataPascoa
+L
+integer laranjaCaixa
+M
+string vogal 
+N
+string nomeLivre
+O
+string limiteCartao
+P
+string horarioJogo
+Q
+string alturaPredio 
+R
+integer aginasCadernos
+S
+boolean salaEstaOcupada
+T
+string alternativas
